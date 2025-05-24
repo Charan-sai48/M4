@@ -21,6 +21,7 @@ return 0;
 ```
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/96332fdf-cfc6-4c4d-8e94-220b5ade5d09)
 
 
 
@@ -75,7 +76,8 @@ int main() {
 }
 ```
 ## OUTPUT
-           
+   ![image](https://github.com/user-attachments/assets/d6be571f-1b04-4b37-b911-2aedf79c5ad4)
+        
 ## RESULT
 
 Thus the program to check whether the two numbers are equal or not using simple if statement has been executed successfully
@@ -110,6 +112,8 @@ printf("Lowercase string: %s", str);
 return 0;
 ```
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/c224ae47-26df-419a-b0c5-1350b208da71)
 
 
 
@@ -156,6 +160,7 @@ int main() {
 }
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/aeaa5db9-63a8-4294-a38c-63708ee47c17)
 
 
 
@@ -215,7 +220,8 @@ int main() {
 ```
 
 ## OUTPUT
- 
+ ![image](https://github.com/user-attachments/assets/8ab271dc-331a-47f9-b43d-b4b1f958bb92)
+
 
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
